@@ -1,85 +1,71 @@
 
+<!--
+  TAMJ@DEV — CYBERPUNK COMMAND CENTER
+  GitHub Profile README
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:001b1a,50:003b36,100:00ffc8&text=Tamj%40dev&fontColor=00ffc8&fontSize=65&fontAlignY=45&desc=FULL-STACK%20DEVELOPER%20IN%20PROGRESS&descSize=14&descAlignY=65&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020b0a,30:003b36,65:005b50,100:00ffc8&text=TAMJ%40DEV&fontColor=00ffc8&fontSize=72&fontAlignY=43&desc=CYBERPUNK%20COMMAND%20CENTER%20%2F%2F%20DEVELOPER%20IN%20PROGRESS&descSize=13&descAlignY=63&animation=fadeIn" alt="Tamj at dev cyberpunk banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=00FFC8&center=true&vCenter=true&width=600&lines=%3E+Hello%2C+World!;Building+web+experiences...;Learning+%7C+Building+%7C+Improving;Welcome+to+my+terminal_%E2%96%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=800&color=00FFC8&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+environment...;%3E+Learning.+Building.+Improving.;%3E+Turning+ideas+into+web+experiences.;%3E+Welcome+to+my+command+center_%E2%96%88" alt="Typing animation"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tamj--delcroix-0d1117?style=for-the-badge&logo=github&logoColor=00ffc8)](https://github.com/Tamj-delcroix)
-[![Website](https://img.shields.io/badge/Website-tamj.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ffc8)](https://tamj.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-tamj.jpg-0d1117?style=for-the-badge&logo=instagram&logoColor=00ffc8)](https://www.instagram.com/wh0stam._/)
+[![GitHub](https://img.shields.io/badge/GITHUB-TAMJ--DELCROIX-00ffc8?style=for-the-badge&logo=github&logoColor=000000&labelColor=07110f)](https://github.com/Tamj-delcroix)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-TAMJ.DEV-00ffc8?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=07110f)](https://tamj.dev)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-TAMJ-00ffc8?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=07110f)](https://www.instagram.com/wh0stam._/)
 
 </div>
 
 ---
+
+<div align="center">
+
+### `SYSTEM OVERVIEW // 001`
+
+`[ IDENTITY: TAMJ ]` &nbsp; ` [ DOMAIN: WEB DEVELOPMENT ]` &nbsp; `[ STATUS: LEARNING ]`
+
+</div>
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ### `> whoami`
 
 ```text
-Name       : Tamj
-Role       : Full-Stack Developer in Progress
-Focus      : Web Development
-Learning   : Building useful web applications
-Mindset    : Learn. Build. Improve. Repeat.
-Location   : Indonesia
+USER       : Tamj
+ROLE       : Developer in Progress
+SPECIALTY  : Web Development
+MISSION    : Build useful things
+PHILOSOPHY : Learn / Build / Improve
 ```
 
-> Halo! Gue seorang pelajar RPL yang tertarik dengan web development. Gue suka membangun aplikasi web, bereksperimen dengan teknologi baru, dan terus meningkatkan kemampuan coding melalui project nyata. 🚀
+Halo! Gue seorang pelajar Rekayasa Perangkat Lunak yang suka membangun aplikasi web dan mengeksplorasi teknologi baru.
 
----
+Gue fokus mengembangkan kemampuan melalui project nyata, mulai dari aplikasi pemesanan sampai platform quiz multiplayer.
 
-### `> tech_stack --list`
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" alt="HTML CSS JavaScript PHP" />
-
-**Frameworks & Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,codeigniter&theme=dark" alt="Node.js Express CodeIgniter" />
-
-**Database & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL Git GitHub VS Code" />
-
-</div>
-
----
-
-### `> featured_projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### ☕ CafeFlow
-
-A cafe ordering web application with an admin dashboard and menu management.
-
-- `Node.js`
-- `Express`
-- `MySQL`
-- `JavaScript`
-
-[↗ View Repository](https://github.com/Tamj-delcroix/cafeflow-tamj)
+**One step at a time. One project at a time.**
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-#### 🧠 Quizzzy
+### `> system_status`
 
-An interactive quiz platform concept featuring multiplayer rooms, real-time gameplay, and leaderboards.
+```text
+[+] Learning
+[+] Building projects
+[+] Exploring new tools
+[+] Improving my code
 
-- `Node.js`
-- `Socket.IO`
-- `Express`
-- `MySQL`
+$ echo $MINDSET
 
-[↗ Find My Repository](https://github.com/Tamj-delcroix?tab=repositories)
+"Keep building."
+```
+
+<img src="https://img.shields.io/badge/BUILD-DAILY-00ffc8?style=flat-square&labelColor=07110f" alt="Build mindset"/>
+<img src="https://img.shields.io/badge/MODE-LEARNING-00ffc8?style=flat-square&labelColor=07110f" alt="Learning mode"/>
 
 </td>
 </tr>
@@ -87,50 +73,163 @@ An interactive quiz platform concept featuring multiplayer rooms, real-time game
 
 ---
 
-### `> github_stats`
+### `> tech_stack --all`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tamj-delcroix&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9&ring_color=00ffc8" alt="GitHub Stats" />
+**// FRONTEND**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamj-delcroix&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ffc8&text_color=c9d1d9" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Tamj-delcroix&hide_border=true&background=0D1117&ring=00FFC8&fire=00FFC8&currStreakLabel=00FFC8&sideLabels=00FFC8&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+**// BACKEND & DATABASE**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,php&theme=dark" alt="Node.js Express MySQL PHP"/>
+
+**// TOOLS & ENVIRONMENT**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/>
 
 </div>
 
 ---
 
-### `> current_status`
+### `> deployed_projects --featured`
 
-```bash
-[+] Learning new technologies
-[+] Building portfolio projects
-[+] Improving problem-solving skills
-[ ] Becoming a better developer every day
-```
-
-### `> connect --with-me`
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d1117?style=flat-square&logo=github&logoColor=00ffc8)](https://github.com/Tamj-delcroix)
-[![Instagram](https://img.shields.io/badge/Instagram-Connect-0d1117?style=flat-square&logo=instagram&logoColor=00ffc8)](https://www.instagram.com/wh0stam._/)
-[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=flat-square&logo=gmail&logoColor=00ffc8)](mailto:kontantammzy@gmail.com)
+<img src="https://img.shields.io/badge/PROJECT_01-CAFEFLOW-00ffc8?style=for-the-badge&labelColor=07110f" alt="CafeFlow"/>
 
 </div>
+
+### ☕ CafeFlow
+
+**Cafe Ordering & Management System**
+
+A web application concept for cafe menus, customer orders, cart management, and an admin dashboard.
+
+```text
+STACK
+├── Node.js
+├── Express
+├── MySQL
+└── JavaScript
+```
+
+[ `OPEN REPOSITORY →` ](https://github.com/Tamj-delcroix/cafeflow-tamj)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_02-QUIZZZY-00ffc8?style=for-the-badge&labelColor=07110f" alt="Quizzzy"/>
+
+</div>
+
+### 🧠 Quizzzy
+
+**Interactive Multiplayer Quiz Platform**
+
+A quiz application project focused on room-based multiplayer gameplay, real-time interactions, scoring, and leaderboards.
+
+```text
+STACK
+├── Node.js
+├── Express
+├── Socket.IO
+└── MySQL
+```
+
+[ `EXPLORE REPOSITORIES →` ](https://github.com/Tamj-delcroix?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+### `> github_analytics --live`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tamj-delcroix&show_icons=true&hide_border=true&bg_color=07110f&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9&ring_color=00ffc8" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamj-delcroix&layout=compact&hide_border=true&bg_color=07110f&title_color=00ffc8&text_color=c9d1d9" alt="Most used languages"/>
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=Tamj-delcroix&hide_border=true&background=07110f&ring=00ffc8&fire=00ffc8&currStreakLabel=00ffc8&sideLabels=00ffc8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak statistics"/>
+
+</div>
+
+<p align="center">
+  <sub>Statistics are provided by external services and may take time to load.</sub>
+</p>
+
+---
+
+### `> contribution_matrix --visualize`
+
+<div align="center">
+
+<img width="100%" src="https://ghchart.rshah.org/00ffc8/Tamj-delcroix" alt="GitHub contribution graph"/>
+
+<sub>Every contribution is another step forward.</sub>
+
+</div>
+
+---
+
+### `> repositories --explore`
+
+<div align="center">
+
+<a href="https://github.com/Tamj-delcroix/cafeflow-tamj">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamj-delcroix&repo=cafeflow-tamj&hide_border=true&bg_color=07110f&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9" alt="CafeFlow repository card"/>
+</a>
+<a href="https://github.com/Tamj-delcroix?tab=repositories">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tamj-delcroix&repo=quizzzy&hide_border=true&bg_color=07110f&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9" alt="Quizzzy repository card, if the repository is named quizzzy"/>
+</a>
+
+</div>
+
+---
+
+### `> connect --establish`
+
+<div align="center">
+
+Want to connect, collaborate, or check out what I'm building?
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-00ffc8?style=for-the-badge&logo=github&logoColor=000000&labelColor=07110f)](https://github.com/Tamj-delcroix)
+[![Website](https://img.shields.io/badge/WEBSITE-00ffc8?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=07110f)](https://tamj.dev)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-00ffc8?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=07110f)](https://www.instagram.com/wh0stam._/)
+[![Email](https://img.shields.io/badge/EMAIL-00ffc8?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=07110f)](mailto:kontantammzy@gmail.com)
+
+</div>
+
+---
 
 <div align="center">
 
 ```text
-tamj@github:~$ echo "Thanks for visiting my profile!"
-Thanks for visiting my profile!
+tamj@github:~$ ./continue.sh
 
-tamj@github:~$ _
+[OK] Keep learning
+[OK] Keep building
+[OK] Keep improving
+
+SESSION_STATUS: IN_PROGRESS
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00ffc8,100:003b36&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:003b36,50:00ffc8,100:003b36&section=footer" alt="Neon footer"/>
 
-<sub>⚡ Keep coding. Keep building. Keep growing.</sub>
+<sub>DESIGNED WITH CURIOSITY // POWERED BY CONSISTENCY</sub>
+
+<br/>
+
+**`TAMJ@DEV`** · `CODE` / `BUILD` / `LEARN` / `GROW`
 
 </div>
