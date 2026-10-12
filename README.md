@@ -1,22 +1,17 @@
 
-<!--
-  NEON OPS // TAMJ@DEV
-  Cyberpunk Developer Control Room
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:00ffc8,50:00ff88,100:00ffc8" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020605,30:06251f,65:004d40,100:00ffc8&text=TAMJ%40DEV&fontColor=00ffc8&fontSize=76&fontAlignY=43&desc=NEON%20OPS%20%2F%2F%20DEVELOPER%20CONTROL%20ROOM&descSize=14&descAlignY=64&animation=fadeIn" width="100%" alt="Neon Ops banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2400&pause=700&color=00FFC8&center=true&vCenter=true&width=650&lines=%3E+Booting+Tamj%40dev...;%3E+Web+Development+Subsystem+Online;%3E+Ideas+in.+Applications+out.;%3E+Status%3A+Always+Learning_%E2%96%88" alt="Terminal typing animation"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0d0d0d&text=TAMJ&fontSize=80&fontColor=d6ff62&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%2F%20DIGITAL%20BUILDER&descSize=13&descColor=aaaaaa&descAlignY=72" width="100%"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE-07110F?style=for-the-badge&logo=github&logoColor=00FFC8)](https://github.com/Tamj-delcroix)
-[![Website](https://img.shields.io/badge/WEB-TAMJ.DEV-07110F?style=for-the-badge&logo=googlechrome&logoColor=00FFC8)](https://tamj.dev)
-[![Instagram](https://img.shields.io/badge/SOCIAL-INSTAGRAM-07110F?style=for-the-badge&logo=instagram&logoColor=00FFC8)](https://www.instagram.com/wh0stam._/)
+`BUILDING DIGITAL EXPERIENCES` &nbsp; · &nbsp; `INDONESIA`
+
+# Hey, I'm Tamj.
+
+I build websites and web applications, experiment with new technologies, and turn ideas into working projects.
+
+[Website](https://tamj.dev) &nbsp; / &nbsp; [GitHub](https://github.com/Tamj-delcroix) &nbsp; / &nbsp; [Instagram](https://www.instagram.com/wh0stam._/)
 
 </div>
 
@@ -24,46 +19,38 @@
 
 <table>
 <tr>
-<td colspan="2">
+<td width="58%" valign="top">
 
-### `01 // OPERATOR PROFILE`
+### 01 — ABOUT
 
 ```yaml
-operator: Tamj
-alias: Tamj@dev
-field: Web Development
-background: Software Engineering Student
-operating_mode: Learn / Build / Improve
-current_objective: Create useful web applications
+name: Tamj
+role: Web Developer
+focus:
+  - Web Development
+  - Interactive Applications
+  - Backend Systems
+currently: Building & Learning
 ```
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `02 // ACTIVE SYSTEMS`
-
-**CAFEFLOW**
-
-`[ WEB APPLICATION ]`
-
-Cafe ordering and administration concept.
-
-[ACCESS SOURCE ↗](https://github.com/Tamj-delcroix/cafeflow-tamj)
+I care about how things work and how they feel to use. My goal is to keep learning, ship better projects, and build a portfolio that reflects my progress.
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### `03 // ACTIVE SYSTEMS`
+### 02 — SYSTEM STATUS
 
-**QUIZZZY**
+<img src="https://img.shields.io/badge/STATUS-LEARNING-d6ff62?style=flat-square&labelColor=171717" />
 
-`[ REAL-TIME QUIZ ]`
+<img src="https://img.shields.io/badge/FOCUS-WEB%20DEV-222222?style=flat-square&labelColor=171717" />
 
-Multiplayer quiz project with rooms, scoring, and leaderboards.
+<img src="https://img.shields.io/badge/LOCATION-INDONESIA-222222?style=flat-square&labelColor=171717" />
 
-[EXPLORE SOURCE ↗](https://github.com/Tamj-delcroix?tab=repositories)
+<br/>
+
+**Current mode**
+
+`[■■■■■■■□□□] EXPLORING`
 
 </td>
 </tr>
@@ -71,82 +58,78 @@ Multiplayer quiz project with rooms, scoring, and leaderboards.
 
 ---
 
+## 03 — Selected Projects
+
+> A few systems from my development lab.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x240/171717/d6ff62?text=01+%2F+CAFEFLOW" width="100%" />
+
+### CafeFlow
+
+A cafe ordering and management application concept with a customer menu, cart, order flow, and admin dashboard.
+
+`NODE.JS` `EXPRESS` `MYSQL`
+
+[↗ View repository](https://github.com/Tamj-delcroix/cafeflow-tamj)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x240/171717/8bbcff?text=02+%2F+QUIZZZY" width="100%" />
+
+### Quizzzy
+
+A multiplayer quiz platform concept featuring room codes, real-time gameplay, scoring, and leaderboards.
+
+`JAVASCRIPT` `SOCKET.IO` `MYSQL`
+
+[↗ Explore my repositories](https://github.com/Tamj-delcroix?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 — Technology Toolkit
+
 <div align="center">
 
-### `04 // TECHNOLOGY MATRIX`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,php,git,github,vscode&theme=dark&perline=5" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,php,laravel,git,github,vscode&theme=dark&perline=6" />
 
 </div>
 
 ---
 
-### `05 // LIVE TELEMETRY`
+## 05 — GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tamj-delcroix&show_icons=true&hide_border=true&bg_color=050b09&title_color=00ffc8&icon_color=00ff88&text_color=c9d1d9" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamj-delcroix&layout=compact&hide_border=true&bg_color=050b09&title_color=00ffc8&text_color=c9d1d9" alt="Language statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tamj-delcroix&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=d6ff62&icon_color=d6ff62&text_color=eeeeee" />
 
-<img width="80%" src="https://streak-stats.demolab.com/?user=Tamj-delcroix&hide_border=true&background=050b09&ring=00ffc8&fire=00ff88&currStreakLabel=00ffc8&sideLabels=00ffc8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamj-delcroix&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=d6ff62&text_color=eeeeee" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Tamj-delcroix&hide_border=true&background=0D0D0D&ring=D6FF62&fire=D6FF62&currStreakLabel=D6FF62&sideLabels=EEEEEE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
 
 </div>
 
 ---
 
-### `06 // CONTRIBUTION GRID`
+## 06 — Find Me Online
 
 <div align="center">
 
-<img width="100%" src="https://ghchart.rshah.org/00ffc8/Tamj-delcroix" alt="GitHub contribution history"/>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-tamj.dev-d6ff62?style=for-the-badge&labelColor=171717)](https://tamj.dev)
+[![GitHub](https://img.shields.io/badge/GITHUB-Tamj--delcroix-white?style=for-the-badge&logo=github&logoColor=white&color=171717)](https://github.com/Tamj-delcroix)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-wh0stam._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wh0stam._/)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-d6ff62?style=for-the-badge&labelColor=171717&logo=gmail&logoColor=d6ff62)](mailto:kontantammzy@gmail.com)
 
-`ACTIVITY LOG // GENERATED FROM PUBLIC CONTRIBUTIONS`
+<br/>
 
-</div>
-
----
-
-### `07 // OPERATOR NOTES`
-
-```text
-[FOCUS]
-  ├── Frontend development
-  ├── Backend fundamentals
-  ├── Database integration
-  └── Real-time web applications
-
-[WORKFLOW]
-  01. Analyze the problem
-  02. Design the solution
-  03. Build the application
-  04. Test and improve
-```
-
----
-
-<div align="center">
-
-### `08 // ESTABLISH CONNECTION`
-
-<a href="https://github.com/Tamj-delcroix">GitHub</a>
-&nbsp; // &nbsp;
-<a href="https://tamj.dev">Portfolio</a>
-&nbsp; // &nbsp;
-<a href="https://www.instagram.com/wh0stam._/">Instagram</a>
-&nbsp; // &nbsp;
-<a href="mailto:kontantammzy@gmail.com">Email</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00ffc8,50:00ff88,100:00ffc8" width="100%" />
-
-```text
-tamj@neon-ops:~$ ./build_future.sh
-
-LEARNING...  BUILDING...  IMPROVING...
-
-PROCESS STATUS: RUNNING_
-```
-
-<sub>NEON OPS // TAMJ@DEV // END OF TRANSMISSION</sub>
+<sub>DESIGNED TO EVOLVE · BUILT ONE PROJECT AT A TIME</sub>
 
 </div>
