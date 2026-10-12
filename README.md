@@ -35,7 +35,7 @@ interests:
 
 ---
 
-## `01` / SYSTEM PROFILE
+## SYSTEM PROFILE
 
 ```bash
 $ ./initialize-profile.sh
@@ -53,7 +53,7 @@ I'm a developer in progress who enjoys creating websites and web applications. I
 
 My goal is simple: **learn continuously, build consistently, and improve with every project.**
 
-## `02` / PROJECT DATABASE
+## PROJECT DATABASE
 
 <table>
 <tr>
@@ -96,7 +96,7 @@ DATABASE  : MYSQL
 </tr>
 </table>
 
-## `03` / TECHNOLOGY MODULES
+## TECHNOLOGY MODULES
 
 <div align="center">
 
@@ -113,7 +113,7 @@ DATABASE  : MYSQL
 
 *Technologies I've worked with and continue to explore.*
 
-## `04` / GITHUB TELEMETRY
+## GITHUB TELEMETRY
 
 <div align="center">
 
@@ -127,7 +127,7 @@ DATABASE  : MYSQL
 
 </div>
 
-## `05` / CONTRIBUTION MATRIX
+## CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -135,7 +135,7 @@ DATABASE  : MYSQL
 
 </div>
 
-## `06` / ESTABLISH CONNECTION
+## ESTABLISH CONNECTION
 
 ```bash
 root@tamj:~# connect --social
