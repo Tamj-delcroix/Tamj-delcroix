@@ -15,13 +15,13 @@
 
 ---
 
-### `01 / INTRODUCTION`
+### `01 INTRODUCTION`
 
 I'm Tamj, an aspiring web developer interested in building web applications and understanding the systems behind them.
 
 I enjoy experimenting with code, solving problems, and learning how ideas become working products.
 
-### `02 / SYSTEM PROFILE`
+### `02 SYSTEM PROFILE`
 
 ```yaml
 name: Tamj
@@ -40,7 +40,7 @@ learning:
   objective: Keep improving
 ```
 
-### `03 / TOOLKIT`
+### `03 TOOLKIT`
 
 <div align="center">
 
@@ -54,7 +54,7 @@ learning:
 
 ---
 
-### `04 / CONNECT`
+### `04 CONNECT`
 
 <div align="center">
 
